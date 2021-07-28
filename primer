@@ -9,6 +9,11 @@ int main()
     cout<<"Создадим массив"<<endl;
     const int n = 5;
     int mas [n];
+    for (int i = 0; i < n; i++){
+        mas[i] = rand()%100;
+        cout<<mas[i]<<endl;
+        
+    }
     
 
     return 0;
