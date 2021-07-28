@@ -6,7 +6,9 @@ int main()
 {
     setlocale(LC_ALL,"Russian");
     
-    cout<<"Пример"<<endl;
+    cout<<"Создадим массив"<<endl;
+    const int n = 5;
+    int mas [n];
     
 
     return 0;
