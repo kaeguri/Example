@@ -12,6 +12,8 @@ int arr(int n){
     }
     
 }
+
+// Это главная функция
 int main()
 {
     int n;
